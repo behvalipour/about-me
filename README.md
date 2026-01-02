@@ -12,11 +12,11 @@ An enthusiast committed to learn new things currently diving into the vital fiel
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kelly-Sampson/Kelly-Sampson/main/assets/stars.gif" width="400" alt="Cute Sparkle Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIwdWswYnd6N3J6eG56eG56eG56eG56eG56eG56eG56eG56eG56ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpLd2NGvpaiys/giphy.gif" width="300" alt="Sparkle Animation">
 </p>
 ---
 
-##  Technical AI Safety Focus
+## 🌸 Technical AI Safety Focus
 
 ![AI Alignment](https://img.shields.io/badge/Focus-AI%20Alignment-FFB6C1?style=for-the-badge&logo=ai&logoColor=white)
 ![Mechanistic Interpretability](https://img.shields.io/badge/Research-Mech%20Interp-F8C8DC?style=for-the-badge)
@@ -37,9 +37,9 @@ I am currently concentrating on the technical challenges of AI alignment:
 ### 📊 My Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=behvalipour&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFB6C1&icon_color=FF69B4" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api?username=behvalipour&show_icons=true&theme=transparent&title_color=FF69B4&text_color=FFB6C1&icon_color=FF69B4&bg_color=0D1117&hide_border=false" alt="stats card" />
 <br><br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFB6C1" alt="languages card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=transparent&title_color=FF69B4&text_color=FFB6C1&bg_color=0D1117&hide_border=false" alt="languages card" />
 </p>
 
 ---
