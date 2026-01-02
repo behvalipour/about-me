@@ -34,9 +34,9 @@ I am currently concentrating on the technical challenges of AI alignment:
 ### 📊 My Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=behvalipour&show_icons=true&theme=rose_pine&bg_color=191724&title_color=eb6f92&text_color=e0def4&icon_color=eb6f92&border_color=eb6f92" alt="stats card" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=behvalipour&show_icons=true&theme=rose_pine" alt="stats card" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=rose_pine&bg_color=191724&title_color=eb6f92&text_color=e0def4&icon_color=eb6f92&border_color=eb6f92" alt="languages card" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=rose_pine" alt="languages card" />
 </p>
 
 ---
