@@ -12,7 +12,7 @@ An enthusiast committed to learn new things currently diving into the vital fiel
 
 ---
 <p align="center">
-  <img src="https://github.com/ashki23/ashki23/blob/master/Assets/Brain%20Visualization.gif?raw=true" width="300" alt="AI Animation">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="AI Neural Animation">
 </p>
 ---
 
