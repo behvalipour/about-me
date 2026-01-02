@@ -12,3 +12,19 @@ I am currently concentrating on the technical challenges of AI alignment, includ
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/behvalipour/behvalipour/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/behvalipour/behvalipour/output/github-snake.svg">
 </picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=behvalipour&color=blue&style=flat-square)
