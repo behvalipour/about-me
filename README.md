@@ -36,13 +36,18 @@ I am currently concentrating on the technical challenges of AI alignment:
 
 ### 📊 My Stats
 
-
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=behvalipour&show_icons=true&theme=sakura" alt="stats card" />
+<img src="https://github-readme-stats.vercel.app/api?username=behvalipour&show_icons=true&theme=tokyonight&title_color=FF69B4&text_color=FFB6C1&icon_color=FF69B4" alt="stats card" />
 <br><br>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=sakura" alt="languages card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=FFB6C1" alt="languages card" />
 </p>
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=behvalipour&color=ff69b4&style=flat-square" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <a href="#behvalipour">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-pink?style=for-the-badge&logo=heart" alt="Back to Top">
+  </a>
 </p>
