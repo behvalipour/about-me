@@ -12,7 +12,7 @@ An enthusiast committed to learn new things currently diving into the vital fiel
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="Neural Network Animation">
+  <img src="https://raw.githubusercontent.com/Kira272/Kira272/master/assets/ai.gif" width="300" alt="Neural Network Animation">
 </p>
 ---
 
@@ -48,8 +48,8 @@ I am currently concentrating on the technical challenges of AI alignment, includ
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=behvalipour&show_icons=true&theme=radical" alt="behvalipour's stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=radical" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=behvalipour&show_icons=true&theme=radical&hide_border=false" alt="behvalipour stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=radical&hide_border=false" alt="behvalipour languages" />
 </p>
 
 ---
